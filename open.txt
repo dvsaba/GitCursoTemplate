@@ -1,1 +1,1 @@
-Este é o conteúdo do curso que precisou ser alterado para dar um conflito.
+Este é o conteúdo do curso que precisou ser alterado mais uma vez.
